@@ -42,11 +42,17 @@ const (
 </style>
 </head>
 <body>
-<h1>The page you requested was not found.</h1>
-<p>Sorry, the page you are looking for is currently unavailable.<br/>
-Please try again later.</p>
-<p>The server is powered by <a href="https://github.com/fatedier/frp">frp</a>.</p>
-<p><em>Faithfully yours, frp.</em></p>
+<h1>404</h1>
+<p>出错啦！<br/>
+服务器不在线或设置出错，请检查！</p>
+<p>-HIPOS.ES- <a href="http://HIPOS.ES">HIPOS</a>.</p>
+<p><em>Faithfully yours, HIPOS.</em></p>
+
+<h1>404</h1>
+<p>¡Error!<br/>
+El servidor no está en línea o la configuración es anormal, ¡verifíquelo!</p>
+<p>-HIPOS.ES- <a href="http://HIPOS.ES">HIPOS</a>.</p>
+<p><em>Faithfully yours, HIPOS.</em></p>
 </body>
 </html>
 `
